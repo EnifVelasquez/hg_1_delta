@@ -1,5 +1,5 @@
 # hg_1_delta_enifvelasquez
-##TEAM CHARLIE :innocent:
+## TEAM CHARLIE :innocent:
 
 This project was designed to implement groupware techniques for Git.
 
